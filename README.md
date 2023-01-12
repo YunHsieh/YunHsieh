@@ -1,4 +1,7 @@
+![img](https://img.shields.io/badge/leetcode%20beats-70%25%2B-green)
+
 # Jerry's characteristic
+
 1. Although the position is defined as Backend Developer, he is always none of business.
 2. The reason is in addition to the backend, the Frontend(React), and Infra(AWS) are also involved.
 3. Hidden in the darkness.
