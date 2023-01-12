@@ -9,17 +9,26 @@
 ## SKILLS
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,golang,typescript,css&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,golang,typescript,css&perline=5)](https://skillicons.dev) 
 
 Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,django,fastapi&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,django,fastapi&perline=5)](https://skillicons.dev) 
 
 Clouds & Containers: 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker&perline=5)](https://skillicons.dev) 
 
 Databases:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=5)](https://skillicons.dev) 
+
+
+Developing skills:
+
+[![My Skills](https://skillicons.dev/icons?i=k8s,graphql&perline=5)](https://skillicons.dev) 
+
+Contact me:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=5)](https://www.linkedin.com/in/%E6%98%80%E5%BF%97-jerry-%E8%AC%9D-114455141/) 
 
