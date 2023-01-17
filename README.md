@@ -1,4 +1,5 @@
-![img](https://img.shields.io/badge/leetcode%20beats-70%25%2B-green)
+[![img](https://img.shields.io/badge/leetcode%20beats-70%25%2B-green)](https://leetcode.com/kilicapeto/) 
+
 
 # Jerry's characteristic
 
@@ -12,7 +13,7 @@
 ## SKILLS
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,golang,typescript,css&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,golang,typescript,css&perline=5)](https://leetcode.com/kilicapeto/) 
 
 Frameworks:
 
